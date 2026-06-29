@@ -1,3 +1,6 @@
+pip
+setuptools
+wheel
 opencv-python
 mediapipe
 loguru
